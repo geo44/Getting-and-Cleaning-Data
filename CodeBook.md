@@ -5,7 +5,6 @@ The data for this project is collected from the accelerometers from the Samsung 
 * Original Codebook: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 The dataset used for this project includes the following files:
-=========================================
 
 - 'README.txt'
 
@@ -28,7 +27,6 @@ The dataset used for this project includes the following files:
 -  'test/subject_test.txt':  Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
 
 Notes: 
-======
 - Features are normalized and bounded within [-1,1].
 - Each feature vector is a row on the text file.
 
