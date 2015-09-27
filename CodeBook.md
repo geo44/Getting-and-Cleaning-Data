@@ -27,6 +27,11 @@ The dataset used for this project includes the following files:
 
 -  'test/subject_test.txt':  Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
 
+Notes: 
+======
+- Features are normalized and bounded within [-1,1].
+- Each feature vector is a row on the text file.
+
 #Transformation
 1. The train and test sets are appended with the subject and activity data accordingly.
 2. Only the variables with mean() and std() are selected from each set.
